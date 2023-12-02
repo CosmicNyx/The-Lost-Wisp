@@ -1,2 +1,3 @@
-// Create Event of obj_player or controller object
-global.playerHit = false; // Initialize the variable
+// 
+global.playerHit = false;  // Already initialized globally, reiterating for clarity
+global.hasIcePower = false;  // Already initialized globally

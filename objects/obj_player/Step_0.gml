@@ -23,3 +23,10 @@ if (keyboard_check_pressed(vk_right)) {
     }
     script_execute(scr_playerMovement, 0);
 }
+
+
+
+// Example additional logic for ice power interactions
+//if (global.hasIcePower) {
+    // Ice power specific logic
+//}
