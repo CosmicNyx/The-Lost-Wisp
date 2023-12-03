@@ -43,6 +43,7 @@ function scr_playerMovement(direction) {
         }
         // Optional: Logic for what happens when boulder breaks the wall
     }
+ 
 }
 
 		
@@ -61,7 +62,9 @@ function scr_playerMovement(direction) {
             }
             global.hasIcePower = true; // Grant ice powers
         }
-
+		
+		
+		
 
   // Check for collision with the exit
         //if (place_meeting(x, y, obj_exit)) {

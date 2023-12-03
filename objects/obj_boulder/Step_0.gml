@@ -3,3 +3,4 @@
 
 // Call the boulder movement script
 //scr_boulderMovement();
+depth = -y;
